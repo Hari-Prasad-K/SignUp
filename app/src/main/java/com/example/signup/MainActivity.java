@@ -8,8 +8,9 @@ import android.view.View;
 import android.widget.EditText;
 
 import java.util.regex.Pattern;
+import java.util.regex.PatternSyntaxException;
 
-                    /* SignUp Activity */
+/* SignUp Activity */
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
