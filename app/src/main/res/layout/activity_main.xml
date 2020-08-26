@@ -49,7 +49,6 @@
       android:drawablePadding="5dp"
       android:ems="10"
       android:hint="Name"
-      android:maxLength="8"
       android:textColor="@color/White"
       android:textSize="15dp"
       android:textColorHint="@color/White" />
